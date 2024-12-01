@@ -17,7 +17,5 @@ int main() {
     }
     visualizer.endRender();
 
-//    visualizer.render(540, 540, 60, "renders/render.mp4", "resources/EarthTexClouds.png", "resources/polsir_samplescan_day00.hdf5", "resources/PolSIR_small.png", 0.15, 0, true);
-
     return 0;
 }
